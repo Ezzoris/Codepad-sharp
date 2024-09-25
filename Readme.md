@@ -90,4 +90,4 @@ sudo emerge --ask dev-lang/python
 - **Find Text**: `Ctrl+F`
 
 **Contact Informations**:
-**Discords**: `arduniomini`, `iph4nt0m.matrix.org`
+**Discords**: `arduniomini`, `iph4nt0m.matrix.org` `ibm_osaka.matrix.org`
